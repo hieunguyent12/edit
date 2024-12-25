@@ -2,7 +2,6 @@
 #define _BSD_SOURCE
 #define _GNU_SOURCE
 
-// test
 #include <ctype.h>
 #include <errno.h>
 #include <math.h>
